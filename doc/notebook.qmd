@@ -21,6 +21,7 @@ Running log of aims, decisions, and analysis notes. Update as you go.
 
 ## Log
 
-### YYYY-MM-DD
-
-- …
+### 2026-10-17
+- Initiating this repository.
+- Grant opportunities to explore:
+  - VR pilot and planning grant
