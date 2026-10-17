@@ -17,13 +17,13 @@ A minimal template for research and clinical quality-improvement projects, based
 
 <!-- Short description of the project and its aim. -->
 
-> Example: Evaluate whether a discharge checklist improves follow-up within seven days for patients leaving the medical ward.
+This repository describes a randomized clinical trial of different combinations of Index-Generating Electroencephalograph Software and targeted controlled infusion modes on outcomes in patients under general anaesthesia for surgical procedures in Sweden. This project is in an early planning stage.
 
 ## Team and contact
 
 <!-- Names, roles, and contact person. -->
 
-> Example: Alex Smith (clinical lead) and Sam Lee (analyst). Contact: alex.smith@example.org.
+Martin Gerdin Wärnberg (principal investigator, martin.gerdin@ki.se, martin.gerdin-warnberg@regionstockholm.se)
 
 ## Data and approvals
 
