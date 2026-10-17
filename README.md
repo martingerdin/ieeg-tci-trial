@@ -17,7 +17,7 @@ A minimal template for research and clinical quality-improvement projects, based
 
 <!-- Short description of the project and its aim. -->
 
-This repository describes a randomized clinical trial of different combinations of Index-Generating Electroencephalograph Software and targeted controlled infusion modes on outcomes in patients under general anaesthesia for surgical procedures in Sweden. This project is in an early planning stage.
+This repository describes a randomized clinical trial of different combinations of Index-Generating Electroencephalograph Software and targeted controlled infusion modes on outcomes in patients under general anaesthesia for surgical procedures in Sweden. This project is in an early planning stage. Potential outcomes include hemondynamic stability, mortality, complications including brain, heart, lungs and kidney. Explore long term effects on cognition including dementia onset.
 
 ## Team and contact
 
